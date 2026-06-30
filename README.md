@@ -1,4 +1,4 @@
- Data Analytics Portfolio
+# Data Analytics Portfolio
 
 Hello! I'm Thawfeeqa S.
 
